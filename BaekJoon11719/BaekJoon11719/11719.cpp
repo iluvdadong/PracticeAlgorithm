@@ -17,3 +17,18 @@ int main() {
 
 	return 0;
 }
+
+
+/*
+
+<string>에 정의된 getline함수
+
+string str1;
+string str2;
+
+ifstream inf("test.txt");
+getline(inf, str1); //파일 입출력
+getline(cin, str2); //표준 입출력
+
+
+*/
