@@ -21,5 +21,11 @@
     <ClCompile Include="ADD.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="WeLoveKrii.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cat.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
