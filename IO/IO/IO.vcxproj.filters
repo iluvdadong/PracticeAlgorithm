@@ -27,5 +27,8 @@
     <ClCompile Include="cat.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Snack.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
