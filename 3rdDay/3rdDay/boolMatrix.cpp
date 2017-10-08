@@ -43,6 +43,7 @@ int main() {
 	//두 행렬의 부울곱 계산
 	int resultCount = 0;
 
+	//행렬의 곱셈을 위해서는 3중포문 필요 [i][k] [k][j]
 	for (int i = 0; i < inputXY; i++) {
 		for (int j = 0; j < inputXY; j++) {
 
@@ -53,7 +54,7 @@ int main() {
 
 				if (check) {
 					resultCount++;
-					break;
+					break; //카운트올리고 빠져나옴
 				}
 
 			}
