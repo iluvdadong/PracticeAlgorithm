@@ -1,0 +1,3 @@
+﻿  basicProblems_100.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\basicProblems_100\basicProblems_100\basicProblems_100.cpp(11,5): warning C4102:  'std': 참조되지 않은 레이블입니다.
+  basicProblems_100.vcxproj -> C:\Users\USER\Documents\GitHub\practiceAlgorithms\basicProblems_100\Debug\basicProblems_100.exe
