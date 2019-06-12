@@ -8,7 +8,7 @@ int recursive(int n);
 int main(void) {
 
 	int i;
-	printf("숫자입력: ");
+	printf("type the number: ");
 	scanf("%d", &i);
 	recursive(i);
 }
