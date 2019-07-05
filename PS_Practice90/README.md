@@ -1,4 +1,4 @@
-# 알고리즘 문제 90
+# 알고리즘 문제 90제[https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90]
 ## 시작 : 0705~
 
 1. 1부터 N까지의 M의 배수의합
