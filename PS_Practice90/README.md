@@ -1,5 +1,6 @@
-# 알고리즘 문제 90제[https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90]
-## 시작 : 0705~
+# 알고리즘 문제 90제
+## 시작 : 190705~
+## [풀이](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90)
 
 1. 1부터 N까지의 M의 배수의합
 09 : 00
