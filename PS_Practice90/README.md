@@ -3,6 +3,7 @@
 ## [풀이](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90)
 
 0705 FRI
+
 ~~1. 1부터 N까지의 M의 배수의합~~
 
 ~~2. 자연수의 합~~
