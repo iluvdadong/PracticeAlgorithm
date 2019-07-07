@@ -30,6 +30,7 @@
     <ClCompile Include="08_02.cpp" />
     <ClCompile Include="09.cpp" />
     <ClCompile Include="10.cpp" />
+    <ClCompile Include="11.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
