@@ -30,7 +30,10 @@
     <ClCompile Include="08_02.cpp" />
     <ClCompile Include="09.cpp" />
     <ClCompile Include="10.cpp" />
-    <ClCompile Include="11.cpp" />
+    <ClCompile Include="11.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="12.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
