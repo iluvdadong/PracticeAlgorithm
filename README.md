@@ -8,4 +8,6 @@
 2. 수학/DP/시뮬레이션/DFS/BFS 관련 5문제 
 
 * [c++로 푸는 알고리즘 90제 - 진행중](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90)
-* [Basic Problems 100제 (난이도: 하)](https://github.com/iluvdadong/practiceAlgorithms/tree/master/basicProblems_100)
+* [백준 스터디 1] (https://github.com/iluvdadong/practiceAlgorithms/tree/master/AlgorithmStudy_BJ)
+* [백준 스터디 2] (https://github.com/iluvdadong/practiceAlgorithms/tree/master/AlgorithmStudy_BJ/AlgorithmStudy_BJ)
+* [Basic Problems](https://github.com/iluvdadong/practiceAlgorithms/tree/master/basicProblems_100)
