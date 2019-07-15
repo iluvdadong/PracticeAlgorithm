@@ -36,7 +36,7 @@ int main() {
 	for (int i = 1; i <= N; i++) {
 		scanf("%d", &num);
 		tmp = reverse(num);
-		if (isPrime(tmp)) printf("%d",tmp);
+		if (isPrime(tmp)) printf("%d ",tmp);
 	}
 	return 0;
 }
