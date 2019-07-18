@@ -1,4 +1,5 @@
-﻿  30.cpp
+﻿  31.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\31.cpp(29,32): warning C4553:  '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
   코드를 생성하고 있습니다.
   Previous IPDB and IOBJ mismatch, fall back to full compilation.
   All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
