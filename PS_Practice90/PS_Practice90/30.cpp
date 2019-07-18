@@ -8,11 +8,11 @@ using namespace std;
 
 int main() {
 
-	int N, left, right, current, k=1, res = 0;
+	int N, left=1, right, current, k=1, res = 0;
 	//k는 자리수
 	scanf("%d", &N);
 
-	while (left > 0) {
+	while (left != 0) {
 		left = N/(k*10) ;
 		right = N % k;
 		current = (N / k) % 10;
@@ -25,5 +25,7 @@ int main() {
 
 		k = k * 10;
 	}
+
+	printf("%d", res);
 	return 0;
 }
