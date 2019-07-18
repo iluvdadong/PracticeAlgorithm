@@ -8,7 +8,7 @@ using namespace std;
 int main() {
 
 	char input[10];
-	int c = 0, h = 0, pos, i=0;
+	int c = 0, h = 0, pos, i;
 	scanf("%s", &input);
 
 	//탄소의 개수를 구함
@@ -27,11 +27,11 @@ int main() {
 	//만약에 H자리의 다음 것이 '\0'이면 H의 개수는 한개라는 말
 	if (input[pos + 1] == '\0') h == 1;
 	else {
-		for (int i = pos + 1; input[i] != '\0'; i++) {
+		for (i = pos + 1; input[i] != '\0'; i++) {
 			h = h * 10 + (input[i]-48);
 		}
 	}
 
-	printf("%d", c * 12 + h);
-
+	printf("%d\n", c * 12 + h);
+	return 0;
 }
