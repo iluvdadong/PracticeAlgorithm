@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
 	
-	int n, temp;
+	int n, i, j, temp;
 	scanf("%d", &n);
 	vector<int> a(n);
 
@@ -17,14 +17,16 @@ int main() {
 		scanf("%d", &a[i]);
 	}
 
-	for (int i = 0; i < n; i++) {
-		for (int j = i + 1; j < n; j++) {
-			if(a[j] < a[i]) {
-				temp = a[j];
-				a[j] = a[i];
-				a[i] = temp;
+	for (i = 0; i < n; i++) { //n-1까지 돌아도 됨
+		int idx = i;
+		for (j = i + 1; j < n; j++) {
+			if(a[j] < a[idx]) {
+				idx = j;
 			}
 		}
+		temp = a[i];
+		a[i] = a[idx];
+		a[idx] = temp;
 	}
 	
 	for(int i = 0;i<n; i++)
