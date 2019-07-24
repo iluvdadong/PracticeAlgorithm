@@ -32,5 +32,6 @@ int main() {
 	}
 	for (int i = 0; i < s; i++)
 		printf("%d ", c[i]);
+
 	return 0;
 }
