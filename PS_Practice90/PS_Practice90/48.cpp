@@ -7,7 +7,7 @@ int a[10][10];
 
 int main() {
 
-	freopen("input.txt", "rt", stdin);
+	//freopen("input.txt", "rt", stdin);
 	int sum = 0, avg, temp, res;
 
 	for (int i = 1; i <= 9; i++) {
