@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <vector>
 #include <algorithm>
-using namespace std;
+using namespace std; 
 
 int a[51][51];
 int dx[4] = { -1, 0, 1, 0 };
