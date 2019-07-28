@@ -8,7 +8,7 @@ int a[10][10];
 int main() {
 
 	freopen("input.txt", "rt", stdin);
-	int sum = 0, avg, min=99999999, temp, res;
+	int sum = 0, avg, temp, res;
 
 	for (int i = 1; i <= 9; i++) {
 		sum = 0;
@@ -18,9 +18,10 @@ int main() {
 		}
 		avg = (sum / 9.0)+0.5;
 		printf("%d ", avg);
+		int min = 999999999;
 
 		for (int j = 1; j <= 9; j++) {
-			temp = abs(avg - a[i][j]);
+			temp = abs(a[i][j]- avg);
 			if (temp < min) {
 				min = temp;
 				res = a[i][j];
@@ -32,5 +33,5 @@ int main() {
 		}
 		printf("%d\n", res);
 	}
-
+	return 0;
 }
