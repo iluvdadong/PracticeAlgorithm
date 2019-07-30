@@ -16,7 +16,7 @@ int main() {
 	char a[50];
 	scanf("%s", &a);
 
-	for (int i = 0; i != '\0'; i++) {
+	for (int i = 0; a[i] != '\0'; i++) {
 		if (a[i] == '(') s.push(a[i]);
 		else {
 			if (s.empty()) {
