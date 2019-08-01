@@ -173,7 +173,7 @@
 
 
 
-### *0801 WED* : __재귀 / BFS / 이진트리 완전탐색 / STACK__
+### *0801 THU* : __재귀 / BFS / 이진트리 완전탐색 / STACK__
 
 ~~58. 이진트리 깊이우선탐색 (DFS: Depth First Search)~~
 
