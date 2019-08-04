@@ -49,5 +49,4 @@ int main() {
 		printf("%d ", data[i]);
 
 
-
 }
