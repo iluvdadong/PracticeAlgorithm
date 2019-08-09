@@ -22,7 +22,7 @@ int main() {
 	//큐 운영
 	Q[++back] = 1; // 큐에 1번 루트 노드 넣기
 	ch[1] = 1; // check 배열에 1 넣기
-
+	
 	while (front < back) { //같아지는 순간 queue는 비어있다는 것
 		x = Q[++front]; //빼는거
 		printf("%d", x); //빼고 출력
