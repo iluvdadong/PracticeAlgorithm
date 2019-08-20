@@ -26,7 +26,7 @@ int main() {
 		Q.pop();
 		if (Q.size() == 1) { //1명 남았을 때
 			printf("%d\n", Q.front());
-			Q.pop();
+			Q.pop();  
 		}
 	}
 	return 0;
