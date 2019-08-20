@@ -1,4 +1,4 @@
-# 알고리즘 문제 90제
+﻿# 알고리즘 문제 90제
 ## 시작 : 190705~
 ## [풀이](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90)
 
@@ -222,19 +222,22 @@
 ~~71. 송아지 찾기 (BFS : 상태트리탐색)~~
 
 
-72. 공주 구하기 (조세퍼스 : 큐를 이용하는 방법)
-08 : 00
-73. 최대힙(priority_queue : 우선순위큐)
-11 : 00
-74. 최소힙(priority_queue : 우선순위큐)
-03 : 00
-75. 최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬)
+>8월 10일 ~ 19일 (휴가)
 
 
->8월 11일 ~ 25일 (휴가)
+### *0820 TUE* : __최대힙 / 최소힙 / 우선순위큐  __
+
+~~72. 공주 구하기 (조세퍼스 : 큐를 이용하는 방법)~~
+
+~~73. 최대힙(priority_queue : 우선순위큐)~~
+
+~~74. 최소힙(priority_queue : 우선순위큐)~~
+
+~~75. 최대 수입 스케쥴(priority queue greedy: 구조체와 Vector를 이용한 정렬)~~
+
+
 
 # 추가범위
-## 시작 : 190826~
 
 76. 이항계수(메모이제이션)
 16 : 00
