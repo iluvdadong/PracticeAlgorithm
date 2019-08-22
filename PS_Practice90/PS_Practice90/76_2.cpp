@@ -1,4 +1,4 @@
-// 76버 - 이항계수(메모이제이션)
+// 76버 - 이항계수(메모이제이션) - DFS
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
