@@ -244,15 +244,20 @@
 
 ~~76. 이항계수(메모이제이션)~~
 
+### *0822 THU* 
 
-77. 친구인가?(Union&Find 자료구조)
-15 : 00
-78. 원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)
-09 : 00
-79. 원더랜드(Prim MST 알고리즘 : priority_queue 활용)
-20 : 00
-80. 다익스트라 알고리즘
-13 : 00
+~~77. 친구인가?(Union&Find 자료구조)~~
+
+~~78. 원더랜드(Kruskal MST 알고리즘 : Union&Find 활용)~~
+
+~~79. 원더랜드(Prim MST 알고리즘 : priority_queue 활용)~~
+
+~~80. 다익스트라 알고리즘~~
+
+
+
+
+
 81. 벨만-포드 알고리즘
 19 : 00
 82. 순열구하기(DFS : Depth First Search)
