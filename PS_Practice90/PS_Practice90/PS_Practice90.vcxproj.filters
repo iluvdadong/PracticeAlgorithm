@@ -279,5 +279,14 @@
     <ClCompile Include="80.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="81.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="83.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="82.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
