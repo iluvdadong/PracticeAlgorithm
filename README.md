@@ -4,17 +4,10 @@
 
 
 *규칙*
-### 2019.07 ~ 08
-- [c++로 푸는 알고리즘 90제 - 7/4~진행중](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90) __하루 2~3문제__
+### 2019.07 ~ 08 
+- [c++로 푸는 알고리즘 90제 - 7/4~8/26](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90) 1회차 완료 __하루 2~3문제__
 
 
 ### 2019.09 ~ 10
-- [c++로 푸는 알고리즘 90제 복습](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90) __하루 2~3문제__
-- 수학/DP/시뮬레이션/DFS/BFS 등 백준/SW Expert Academy 새로운 문제 __하루 2문제__
-
-
-### Category
-* [c++로 푸는 알고리즘 90제 - 7/4~진행중](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90)
-* [백준 스터디 1](https://github.com/iluvdadong/practiceAlgorithms/tree/master/AlgorithmStudy_BJ)
-* [백준 스터디 2](https://github.com/iluvdadong/practiceAlgorithms/tree/master/AlgorithmStudy_BJ/AlgorithmStudy_BJ)
-* [Basic Problems](https://github.com/iluvdadong/practiceAlgorithms/tree/master/basicProblems_100)
+- [c++로 푸는 알고리즘 90제 복습](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90) 2회차 진행 __하루 2문제__
+- [DFS/BFS(완전탐색) 50제](https://github.com/iluvdadong/PracticeAlgorithm/tree/master/DFS_BFS_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_53) __하루 2문제__
