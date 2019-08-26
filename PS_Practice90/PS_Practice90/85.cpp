@@ -32,7 +32,6 @@ void DFS(int L, int res) {
 	}
 }
 
-
 int main() {
 	freopen("input.txt", "rt", stdin);
 	int i;
