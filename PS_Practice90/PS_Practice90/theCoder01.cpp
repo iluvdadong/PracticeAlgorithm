@@ -1,5 +1,5 @@
 // The Coder 01 - 점수계산(기본코딩)
-// 완료
+// 완료 - 15분 소요
 
 #include <stdio.h>
 
