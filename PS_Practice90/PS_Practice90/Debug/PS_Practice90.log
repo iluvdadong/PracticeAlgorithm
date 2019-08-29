@@ -1,2 +1,211 @@
-﻿  06.cpp
-  PS_Practice90.vcxproj -> C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\Debug\PS_Practice90.exe
+﻿  05.cpp
+  06.cpp
+  07.cpp
+  08.cpp
+  08_02.cpp
+  09.cpp
+  10.cpp
+  11.cpp
+  12.cpp
+  13.cpp
+  14.cpp
+  15.cpp
+  15_2.cpp
+  16.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\13.cpp(8,6): warning C4101:  'N' :참조되지 않은 지역 변수입니다.
+  17.cpp
+  17_2.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\16.cpp(14,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\17_2.cpp(18,18): error C2065:  's': 선언되지 않은 식별자입니다.
+  18.cpp
+  19.cpp
+  20.cpp
+  20_2.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  21.cpp
+  22.cpp
+  22_2.cpp
+  23.cpp
+  24.cpp
+  25.cpp
+  26.cpp
+  27.cpp
+  28.cpp
+  29.cpp
+  30.cpp
+  31.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\17_2.cpp(19,3): error C2143:  구문 오류: ';'이(가) '}' 앞에 없습니다.
+  32.cpp
+  33.cpp
+  34.cpp
+  35.cpp
+  36.cpp
+  37.cpp
+  38.cpp
+  39.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  40.cpp
+  41.cpp
+  42.cpp
+  43.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\31.cpp(28,32): warning C4553:  '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  44.cpp
+  45.cpp
+  46.cpp
+  47.cpp
+  48.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\43.cpp(27,9): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  49.cpp
+  50.cpp
+  51.cpp
+  52.cpp
+  53.cpp
+  53_2.cpp
+  54.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\48.cpp(19,20): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  55.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\54.cpp(12,7): warning C4101:  'temp' :참조되지 않은 지역 변수입니다.
+  56.cpp
+  57.cpp
+  58_DFS.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  59.cpp
+  60.cpp
+  61.cpp
+  61_2.cpp
+  62.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\55.cpp(37,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  63.cpp
+  64.cpp
+  65.cpp
+  66.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\62.cpp(40,9): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+  67.cpp
+  68.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\66.cpp(15,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  69.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\68.cpp(18,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\69.cpp(30,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\69.cpp(17,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  70.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+  71.cpp
+  72.cpp
+  73.cpp
+  74.cpp
+  75.cpp
+  76.cpp
+  76_2.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  77.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\70.cpp(34,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\77.cpp(25,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\77.cpp(28,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\77.cpp(35,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\77.cpp(39,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  78.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\78.cpp(46,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\78.cpp(52,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\78.cpp(60,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  79.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\79.cpp(65,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\79.cpp(31,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\79.cpp(40,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\79.cpp(42,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  80.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\80.cpp(39,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\80.cpp(14,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\80.cpp(17,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\80.cpp(21,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  81.cpp
+  82.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\82.cpp(36,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\82.cpp(39,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  83.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\83.cpp(10,7): error C2065:  'a': 선언되지 않은 식별자입니다.
+  84.cpp
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\83.cpp(15,2): error C3861:  'DFS': 식별자를 찾을 수 없습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\84.cpp(21,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\84.cpp(22,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\84.cpp(25,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  85.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\85.cpp(36,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\85.cpp(38,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\85.cpp(40,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\85.cpp(43,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  86.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\86.cpp(19,8): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\86.cpp(23,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\86.cpp(56,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\86.cpp(58,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\86.cpp(61,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  87.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\87.cpp(29,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\87.cpp(32,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\87.cpp(37,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  theCoder01.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder01.cpp(9,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder01.cpp(12,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  theCoder02.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder02.cpp(12,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder02.cpp(13,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder02.cpp(17,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  theCoder03.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder03.cpp(10,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder03.cpp(15,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder03.cpp(27,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  theCoder04.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder04.cpp(10,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder04.cpp(12,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder04.cpp(17,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  theCoder05.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder05.cpp(10,1): error C4996:  'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(243): message :  'freopen' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder05.cpp(13,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\USER\Documents\GitHub\practiceAlgorithms\PS_Practice90\PS_Practice90\theCoder05.cpp(16,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
