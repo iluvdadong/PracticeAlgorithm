@@ -294,9 +294,16 @@
 
 # 90+추가 연습문제
 
+## *0829 THU* ~
+
 theCoder01.cpp	격자판 채우기(2차원 배열)	
+
 theCoder02.cpp	운동장 보수 2차원 배열
+
 theCoder03.cpp	운동장 보수 2차원 배열	
+
 theCoder04.cpp	회문 문자열 기본코딩	
+
 theCoder05.cpp	이미반장 정하기 2차원배열 3중 for문 기초시뮬
+
 theCoder06.cpp	바둑이승차 DFS 부분집합 실패
