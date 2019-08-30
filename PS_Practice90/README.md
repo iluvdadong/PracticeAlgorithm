@@ -1,4 +1,4 @@
-﻿# 알고리즘 문제 90제
+﻿# 알고리즘 문제 90제 + 추가문제
 ## 시작 : 190705~
 ## [풀이](https://github.com/iluvdadong/practiceAlgorithms/tree/master/PS_Practice90/PS_Practice90)
 
@@ -290,3 +290,13 @@
 89. 토마토(BFS 활용)
 11 : 00
 90. 라이언 킹 심바(삼성 SW역량평가 기출 : BFS활용)
+
+
+# 90+추가 연습문제
+
+theCoder01.cpp	격자판 채우기(2차원 배열)	
+theCoder02.cpp	운동장 보수 2차원 배열
+theCoder03.cpp	운동장 보수 2차원 배열	
+theCoder04.cpp	회문 문자열 기본코딩	
+theCoder05.cpp	이미반장 정하기 2차원배열 3중 for문 기초시뮬
+theCoder06.cpp	바둑이승차 DFS 부분집합 실패
