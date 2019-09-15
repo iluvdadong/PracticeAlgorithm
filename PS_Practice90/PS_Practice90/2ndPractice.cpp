@@ -2,17 +2,18 @@
 
 int main() {
 
-	int a, b, sum = 0;;
-	scanf("%d %d", &a, &b);
 
-	printf("%d", a);
-	sum = sum + a;
-	for (int i = a+1; i <= b; i++) {
-		printf(" + %d", i);
-		sum = sum + i;
+	freopen("input.txt", "rt", stdin);
+	
+	int n, a, min = 2147000000, max = -2147000000;
+	scanf("%d", &n);
+
+	for (int i = 1; i <= n; i++) {
+		scanf("%d", &a);
+		if (a > max) max = a;
+		if (a < min) min = a;
 	}
 
-	printf(" = %d", sum);
-
-
+	printf("%d", max - min);
+	
 }
