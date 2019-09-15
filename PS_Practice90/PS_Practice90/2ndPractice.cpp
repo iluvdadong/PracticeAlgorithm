@@ -2,15 +2,17 @@
 
 int main() {
 
-	int n, m, sum =0;
-	scanf("%d %d", &n, &m);
+	int a, b, sum = 0;;
+	scanf("%d %d", &a, &b);
 
-	for (int i = 1;i <= n; i++) {
-		if (i % 3 == 0) {
-			sum = sum + i;
-		}
+	printf("%d", a);
+	sum = sum + a;
+	for (int i = a+1; i <= b; i++) {
+		printf(" + %d", i);
+		sum = sum + i;
 	}
 
-	printf("%d", sum);
-	return 0;
+	printf(" = %d", sum);
+
+
 }
