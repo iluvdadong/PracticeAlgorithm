@@ -1,19 +1,23 @@
 #include <iostream>
+char a[50];
 
 int main() {
 
+	int res = 0, cnt = 0;
+	scanf("%s", &a);
 
-	freopen("input.txt", "rt", stdin);
+	for (int i = 0; a[i] != '\0'; i++) {
 	
-	int n, a, min = 2147000000, max = -2147000000;
-	scanf("%d", &n);
-
-	for (int i = 1; i <= n; i++) {
-		scanf("%d", &a);
-		if (a > max) max = a;
-		if (a < min) min = a;
+		if (a[i] >= 48 && a[i] < 58) {
+			res = res * 10 + (a[i] - 48);
+		}
 	}
-
-	printf("%d", max - min);
 	
+	for (int i = 1; i <= res; i++) {
+		if (res % i == 0) {
+			cnt++;
+		}
+	}
+	
+	printf("%d\n %d\n", res, cnt);
 }
