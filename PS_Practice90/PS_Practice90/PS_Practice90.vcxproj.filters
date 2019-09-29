@@ -258,9 +258,6 @@
     <ClCompile Include="74.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="75.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="76.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -270,12 +267,6 @@
     <ClCompile Include="77.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="78.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="79.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="80.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -283,9 +274,6 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="83.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="82.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="84.cpp">
@@ -328,6 +316,30 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="2ndPractice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testNHN.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="testNHN2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="75_nhn.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="82_line.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="78_nhn.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="79_nhn.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
