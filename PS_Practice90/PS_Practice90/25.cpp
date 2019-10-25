@@ -10,6 +10,7 @@ int main() {
 
 	int N; 
 	scanf("%d", &N);
+
 	vector<int> a(N+1);
 	vector<int> b(N+1, 1);
 
@@ -28,3 +29,4 @@ int main() {
 		printf("%d ", b[i]);
 
 }
+
